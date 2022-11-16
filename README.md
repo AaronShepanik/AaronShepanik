@@ -1,7 +1,33 @@
-### Hi there 👋
+<h1>Hi, I'm Aaron! <br>Mathematics and Statistics Educator and Data Scientist</h1>
+
+<h2>👨‍💻 Data Analyst Projects:</h2>
+
+- <b>EDA and Reporting</b>
+  - [Report](https://github.com/url)
+- <b>Google Apps Script (Complex Stats Grading Sheet</b>
+  - [Page Link](https://github.com/url) <b><i>(Potentially NSFW)</b></i>
+- <b>Regression in Python</b>
+  - [stuff to link ](https://github.com/url)
+
+<h2>📺 Educational YouTube Videos</h2>
+
+- [Introduction to Statistics Playlist](https://www.youtube.com/url)
+
+<h2>📄 Certifications </h2>
+- Intro to Google Data Studio, etc.
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AaronShepanik | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AaronShepanik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/channel/UCktTsnTPQ23kI5IcJIbiw9Q/featured
+[linkedin]: https://www.linkedin.com/in/shepanik/
+
 
 <!--
-**AaronShepanik/AaronShepanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
