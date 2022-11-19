@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>EDA and Reporting</b>
-  - [Report](https://github.com/AaronShepanik/DISTL_Report)
+  - [Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
 - <b>Google Apps Script (Complex Stats Grading Sheet</b>
   - [Page Link](https://github.com/url) <b><i>(Potentially NSFW)</b></i>
 - <b>Regression in Python</b>
