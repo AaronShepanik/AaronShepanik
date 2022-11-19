@@ -5,6 +5,8 @@
 - <b>EDA and Reporting</b>
   - [Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
   - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
+  - Interview Dashboard
+- **Rocket league robot**
 - <b>Regression in Python</b>
   - [stuff to link ](https://github.com/url)
 
