@@ -1,11 +1,10 @@
 <h1>Hi, I'm Aaron! <br>Mathematics and Statistics Educator and Data Scientist</h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>EDA and Reporting</b>
   - [Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
-- <b>Google Apps Script (Complex Stats Grading Sheet</b>
-  - [Page Link](https://github.com/url) <b><i>(Potentially NSFW)</b></i>
+  - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
 - <b>Regression in Python</b>
   - [stuff to link ](https://github.com/url)
 
