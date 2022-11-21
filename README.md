@@ -15,8 +15,9 @@
 - [Introduction to Statistics Playlist](https://www.youtube.com/url)
 
 <h2>📄 Certifications </h2>
-- Statistics with Python Specialization
-- Introduction to Google Data Studio
+
+- [Statistics with Python Specialization](https://www.linkedin.com/in/shepanik/details/certifications/)
+- [Introduction to Google Data Studio](https://www.linkedin.com/in/shepanik/details/certifications/)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -29,7 +30,7 @@
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
