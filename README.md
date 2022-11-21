@@ -8,14 +8,15 @@
   - Interview Dashboard
 - **Rocket league robot**
 - <b>Regression in Python</b>
-  - [stuff to link ](https://github.com/url)
+  - [R Style Residual Plots in Python](https://github.com/AaronShepanik/Residual-Plots)
 
 <h2>📺 Educational YouTube Videos</h2>
 
 - [Introduction to Statistics Playlist](https://www.youtube.com/url)
 
 <h2>📄 Certifications </h2>
-- Intro to Google Data Studio, etc.
+- Statistics with Python Specialization
+- Introduction to Google Data Studio
 
 <h2> 🤳 Connect with me:</h2>
 
