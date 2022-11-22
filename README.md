@@ -5,7 +5,7 @@
 - <b>EDA and Reporting</b>
   - [Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
   - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
-  - Sample DataStudio Dashboard
+  - Sample DataStudio Dashboard (coming soon)
 - **Rocket league robot**
   - Currently a work in progress!
 - <b>Regression in Python</b>
@@ -17,17 +17,18 @@
 
 <h2>📖 Publications </h2>
 
-- Graph Theory and Tournament Scheduling
+- [Graph Theory and Tournament Scheduling](https://github.com/AaronShepanik/graph_theory_publications)
   - On Regular Handicap Graphs of Order 4 mod 8
   - On Regular Handicap Graphs of Order 0 mod 8
   - On Regular Handicap Graphs of Even Order
   - Regular Handicap Tournaments of High Degree
   - Handicap Tournaments (M.S. Thesis)
 
-<h2>📄 Certifications </h2>
+<h2>📄 Certificates </h2>
 
 - [Statistics with Python Specialization](https://www.linkedin.com/in/shepanik/details/certifications/)
 - [Introduction to Google Data Studio](https://www.linkedin.com/in/shepanik/details/certifications/)
+- [Applied Machine Learning in Python](https://www.linkedin.com/in/shepanik/details/certifications/)
 
 <h2> 🤳 Connect with me:</h2>
 
