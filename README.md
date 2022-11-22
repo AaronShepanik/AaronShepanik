@@ -7,12 +7,22 @@
   - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
   - Sample DataStudio Dashboard
 - **Rocket league robot**
+  - Currently a work in progress!
 - <b>Regression in Python</b>
   - [R Style Residual Plots in Python](https://github.com/AaronShepanik/Residual-Plots)
 
 <h2>📺 Educational YouTube Videos</h2>
 
 - [Introduction to Statistics Playlist](https://www.youtube.com/url)
+
+<h2>📖 Publications </h2>
+
+- Graph Theory and Tournament Scheduling
+  - On Regular Handicap Graphs of Order 4 mod 8
+  - On Regular Handicap Graphs of Order 0 mod 8
+  - On Regular Handicap Graphs of Even Order
+  - Regular Handicap Tournaments of High Degree
+  - Handicap Tournaments (M.S. Thesis)
 
 <h2>📄 Certifications </h2>
 
