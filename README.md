@@ -11,7 +11,7 @@
 - <b>Regression in Python</b>
   - [R Style Residual Plots in Python](https://github.com/AaronShepanik/Residual-Plots)
 - Machine Learning Methods From Scratch
-  - [Linear Regression] (https://github.com/AaronShepanik/ML-Linear-Regression-From-Scratch)
+  - [Linear Regression](https://github.com/AaronShepanik/ML-Linear-Regression-From-Scratch)
 
 <h2>📺 Educational YouTube Videos</h2>
 
