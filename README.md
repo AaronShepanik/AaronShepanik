@@ -16,6 +16,7 @@
 <h2>📺 Educational YouTube Videos</h2>
 
 - [Introduction to Statistics Playlist](https://www.youtube.com/url)
+- [Linear Regression and Gradient Descent From Scratch](https://www.youtube.com/watch?v=Sj2PSJ2u4yw&list=PLIpZ6WH0v7hLIq00iit1BpwlBxq2xDHHC)
 
 <h2>📖 Publications </h2>
 
