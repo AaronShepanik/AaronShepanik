@@ -7,6 +7,7 @@
   - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
   - Sample DataStudio Dashboard (coming soon)
 - [Rocket league robot](https://github.com/AaronShepanik/Rocket-League-Bot)
+  - A 1 v 1 robot written in Python that can play Rocket League, pretty well actually!
  
 - <b>Regression in Python</b>
   - [R Style Residual Plots in Python](https://github.com/AaronShepanik/Residual-Plots)
