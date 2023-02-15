@@ -6,8 +6,8 @@
   - [Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
   - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
   - Sample DataStudio Dashboard (coming soon)
-- **Rocket league robot**
-  - Currently a work in progress!
+- [Rocket league robot](https://github.com/AaronShepanik/Rocket-League-Bot)
+ 
 - <b>Regression in Python</b>
   - [R Style Residual Plots in Python](https://github.com/AaronShepanik/Residual-Plots)
 - Machine Learning Methods From Scratch
