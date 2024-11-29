@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron! <br>Mathematics and Statistics Educator and Data Scientist</h1>
+<h1>Hi, I'm Aaron! <br>Data Scientist and former math educator.</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
