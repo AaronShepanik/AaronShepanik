@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Dashboard/Webapp</b>
+  - [Sample Python Shiny WebApp that uses real estate data from Zillow](https://github.com/AaronShepanik/Shiny_App_Zillow_Real_Estate/blob/master/app_screenshot.png)
+
 - <b>EDA and Reporting</b>
   - [Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
   - [Automated Emails for Custom Gradebook](https://github.com/AaronShepanik/Automated_Emails) (Google Apps Script)
